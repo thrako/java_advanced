@@ -1,5 +1,5 @@
 ### Java lessons (_theory and practice_):
-[Stack and Queues](https://github.com/thrako/java_advanced/tree/main/lesson01_stacks_and_queues)  
+[Stacks and Queues](https://github.com/thrako/java_advanced/tree/main/lesson01_stacks_and_queues)  
  > Algorithmic Complexity  
  Stack - last-in, first-out  
  Queue - first-in, first-out  
