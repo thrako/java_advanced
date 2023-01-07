@@ -78,5 +78,5 @@ Greedy Algorithms
 Greedy Failure Cases  
 Simple Sorting Algorithms  
 Searching Algorithms  
-*See also: [Algorithms Fundamentals with Java]()*
+*See also: [Algorithms Fundamentals with Java](https://github.com/thrako/algorithms_fundamentals_with_java)*
 >
