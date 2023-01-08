@@ -1,19 +1,19 @@
-### Java lessons (_theory and practice_):
-[Stacks and Queues](https://github.com/thrako/java_advanced/tree/main/lesson01_stacks_and_queues)  
+### Java Advanced lessons (_theory and practice_):
+[:file_folder: Stacks and Queues](https://github.com/thrako/java_advanced/tree/main/lesson01_stacks_and_queues)  
 > Algorithmic Complexity  
 >  Stack - last-in, first-out  
 >  Queue - first-in, first-out  
 >  Priority Queue    
 >
 
-[Multidimensional Arrays](https://github.com/thrako/java_advanced/tree/main/lesson02_multidimensional_arrays)
+[:file_folder: Multidimensional Arrays](https://github.com/thrako/java_advanced/tree/main/lesson02_multidimensional_arrays)
 > Declaring and Creating Multidimensional Arrays  
 > Initializing Multidimensional Arrays  
 > Accessing Elements  
 > Reading a Matrix  
 > 
 
-[Sets and Maps](https://github.com/thrako/java_advanced/tree/main/lesson03_sets_and_maps_advanced)
+[:file_folder: Sets and Maps](https://github.com/thrako/java_advanced/tree/main/lesson03_sets_and_maps_advanced)
 > Sets  
 > `HashSet<E>`  
 > `TreeSet<E>`  
@@ -25,7 +25,7 @@
 > `LinkedHashMap<K, V>`  
 >
 
-[Streams, Files and Directories](https://github.com/thrako/java_advanced/tree/main/lesson04_streams_files_and_directories)  
+[:file_folder: Streams, Files and Directories](https://github.com/thrako/java_advanced/tree/main/lesson04_streams_files_and_directories)  
 > Streams Basics  
 > Types of Streams - I/O  
 > Buffered Streams  
@@ -33,7 +33,7 @@
 > Serialization  
 >
 
-[Functional Programming](https://github.com/thrako/java_advanced/tree/main/lesson05_functional_programming)
+[:file_folder: Functional Programming](https://github.com/thrako/java_advanced/tree/main/lesson05_functional_programming)
 > Lambda expressions  
 > `Function<T, R>`  
 > `Consumer<T>`  
@@ -43,7 +43,7 @@
 > *See also: custom `TriFunction<T1, T2, T3, R>` defined and used [here](https://github.com/thrako/java_oop/tree/main/lesson05_polymorphism/exercise/n02_vehicles_extension)*   
 > 
 
-[Defining Classes](https://github.com/thrako/java_advanced/tree/main/lesson06_defining_classes)
+[:file_folder: Defining Classes](https://github.com/thrako/java_advanced/tree/main/lesson06_defining_classes)
 > Defining Simple Classes  
 > Fields  
 > Methods  
@@ -51,14 +51,14 @@
 > Static Members  
 >
 
-[Workshop (Custom Data Structures)](https://github.com/thrako/java_advanced/tree/main/lesson07_custom_data_structures)
+[:file_folder: Workshop (Custom Data Structures)](https://github.com/thrako/java_advanced/tree/main/lesson07_custom_data_structures)
 > `Arraylist<T>`  
 > `Stack<T>`  
 > `Tuple<T1, T2>` [here](https://github.com/thrako/java_advanced/tree/main/lesson08_generics/exercise/N09_Tuple)  
-> *See also: [Data Structures Fundamentals with Java]()*
+> *See also: [:file_folder: Data Structures Fundamentals with Java]()*
 > 
 
-[Generics](https://github.com/thrako/java_advanced/tree/main/lesson08_generics)
+[:file_folder: Generics](https://github.com/thrako/java_advanced/tree/main/lesson08_generics)
 > Generics Syntax  
 > Generic Classes and Interfaces  
 > Generic Methods  
@@ -66,7 +66,7 @@
 > Type Parameter Bounds  
 > 
 
-[Iterators and Comparators](https://github.com/thrako/java_advanced/tree/main/lesson09_iterators_and_comparators)
+[:file_folder: Iterators and Comparators](https://github.com/thrako/java_advanced/tree/main/lesson09_iterators_and_comparators)
 > Varargs `String... args`  
 > `Iterable<T>`  
 > `Iterator<T>`  
@@ -74,7 +74,7 @@
 > `Comparator<T>`  
 >  
 
-[Workshop (Basic Algorithms)]()
+[:file_folder: Workshop (Basic Algorithms)]()
 > Recursion  
 > Brute-Force Algorithms  
 > Greedy Algorithms  
@@ -84,10 +84,10 @@
 > *See also: [Algorithms Fundamentals with Java](https://github.com/thrako/algorithms_fundamentals_with_java)*
 >
 
-[Exam Preparation](https://github.com/thrako/java_advanced/tree/main/practice)  
+[:file_folder: Exam Preparation](https://github.com/thrako/java_advanced/tree/main/practice)  
 > Past Exam - 17 Dec 2019  
 > Past Exam - 22 Feb 2020  
 > 
 
-[My Exam](https://github.com/thrako/java_advanced/tree/main/my_exam)
+[:file_folder: My Exam](https://github.com/thrako/java_advanced/tree/main/my_exam)
 > Exam - 22 Oct 2022
