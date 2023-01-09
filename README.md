@@ -74,7 +74,7 @@
 > `Comparator<T>`  
 >  
 
-[:file_folder: Workshop (Basic Algorithms)]()
+[:file_folder: Workshop (Basic Algorithms)](https://github.com/thrako/java_advanced/tree/main/lesson10_basic_algorithms)
 > Recursion  
 > Brute-Force Algorithms  
 > Greedy Algorithms  
