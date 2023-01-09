@@ -84,7 +84,7 @@
 > *See also: [Algorithms Fundamentals with Java](https://github.com/thrako/algorithms_fundamentals_with_java)*
 >
 
-[:file_folder: Exam Preparation](https://github.com/thrako/java_advanced/tree/main/practice)  
+[:file_folder: Exam Preparation](https://github.com/thrako/java_advanced/tree/main/practice_exams)  
 > Past Exam - 17 Dec 2019  
 > Past Exam - 22 Feb 2020  
 > 
